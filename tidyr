@@ -1,0 +1,2 @@
+gather(students,sex,count,-grade)
+separate(res,col=sex_class,into=c("sex","class"))
